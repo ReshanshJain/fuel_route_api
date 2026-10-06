@@ -37,6 +37,11 @@ Content-Type: `application/json`
   "start": "Fort Wayne, IN",
   "finish": "Seymour, IN"
 }
+
+{
+  "start": "Council Bluffs, IA",
+  "finish": "Tomah, WI"
+}
 ```
 
 The response includes route distance, route geometry, recommended fuel stops, and estimated total fuel cost.
